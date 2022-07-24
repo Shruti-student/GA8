@@ -1,3 +1,5 @@
+import streamlit as st
+
 def main():
   st.title("Even or Odd")
   html_temp = """
